@@ -1,5 +1,4 @@
 /*Write a C++ Program to find Simple Interest*/
-
 #include<iostream>
 using namespace std;
 int main()
